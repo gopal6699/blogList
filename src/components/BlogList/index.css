@@ -1,0 +1,11 @@
+.blog-list {
+  width: 70%;
+  padding-left: 0px;
+  margin: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .blog-list {
+    width: 95%;
+  }
+}
